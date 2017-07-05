@@ -1,0 +1,1 @@
+We are learning how to use the Git repository.
